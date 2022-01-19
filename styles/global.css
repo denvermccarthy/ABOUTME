@@ -43,3 +43,28 @@ footer {
     padding: 10px var(--gutter);
     align-self: stretch;
 }
+
+#main-content {
+    border: solid black 3px;
+    background-color: var(--primary-background);
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#myName {
+ color: red; 
+ font-size: 3em;  
+}
+
+#myName:hover {
+    color: blue;   
+   }
+
+.title {
+    font-weight: 1000;
+
+}
+
+.italics {
+    font-style: italic;
+}
