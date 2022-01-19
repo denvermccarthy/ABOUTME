@@ -5,7 +5,7 @@
 If you work on more than one feature at a time, you are guaranteed to multiply your bugs and your anxiety.
 
 ## Making a plan
-
+Denver's Plan!
 1. **Make a drawing of your app. Simple "wireframes"**
 1. **Once you have a drawing, name the HTML elements you'll need to realize your vision**
 1. **For each HTML element ask: Why do I need this?**
