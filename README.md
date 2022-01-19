@@ -3,9 +3,11 @@
 🦸 🦸‍♂️ `Stop starting and start finishing.` 🏁
 
 If you work on more than one feature at a time, you are guaranteed to multiply your bugs and your anxiety.
-
+## Denver's Plan!
+1. Fill in my markup (animal list, fun fact, location and pronouns)
+2. Style my elements
+3. Commit changes
 ## Making a plan
-Denver's Plan!
 1. **Make a drawing of your app. Simple "wireframes"**
 1. **Once you have a drawing, name the HTML elements you'll need to realize your vision**
 1. **For each HTML element ask: Why do I need this?**
